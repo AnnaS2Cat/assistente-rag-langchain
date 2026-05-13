@@ -1,0 +1,22 @@
+venv/
+.env
+
+#cache python
+__pycache__/
+*.pyc
+
+#banco vetorial
+arquivos/chat_retrieval_db/
+
+#cache hugging face
+.cache/
+huggingface/
+
+#arquivos do sistema
+.DS_Store
+Thumbs.db
+
+.vscode/
+
+# logs
+*.log
