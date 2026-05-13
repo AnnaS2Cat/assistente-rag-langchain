@@ -20,3 +20,6 @@ Thumbs.db
 
 # logs
 *.log
+
+ffmpeg.exe
+ffprobe.exe
